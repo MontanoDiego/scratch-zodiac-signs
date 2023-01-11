@@ -1,0 +1,30 @@
+.zodiac{
+    background-color: rgb(171, 135, 255);
+    margin: 20px;
+    border-radius: 20px;
+    height: 250px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image {
+    margin: auto;
+    height: 50px;
+    width: 50px;
+}
+
+.name {
+    text-decoration: underline;
+}
+
+.symbol {
+    text-decoration: overline;
+    font-weight: light;
+}
+
+.dates {
+    font-weight: bold;
+    font-size: medium;
+}
