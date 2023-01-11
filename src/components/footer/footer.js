@@ -1,5 +1,8 @@
 import React from 'react';
-import './Footer.css';
+import './footer.css';
 export default function Footer() {
-  return <footer>Built by Diego Montaño</footer>;
+  return <footer>
+    <p>Built by Diego Montaño
+    </p>
+  </footer>;
 }
